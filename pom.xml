@@ -25,7 +25,7 @@
     <version>50</version>
   </parent>
   <artifactId>gwt-maven-plugin</artifactId>
-  <version>2.11</version>
+  <version>2.11.0</version>
   <packaging>maven-plugin</packaging>
   <name>Mojo's Maven Plugin for GWT</name>
   <description>
